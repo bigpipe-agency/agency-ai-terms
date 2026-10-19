@@ -11,6 +11,10 @@ Both files list every option. Delete what does not apply to you, or use the **[A
 
 In a World Federation of Advertisers survey of 48 of the world's biggest advertisers (September 2024), 80% had concerns about how their agencies use generative AI, and only 36% had introduced terms on how partners may use it on their behalf. An agency that arrives with a written standard answers the question before it becomes a negotiation, including a request for an [AI discount](https://bigpipe.agency/blog/clients-want-an-ai-discount-what-to-say?utm_source=github&utm_medium=repo&utm_campaign=ai-terms&utm_content=readme-discount).
 
+## How many agencies publish one?
+
+Very few. In October 2026 we read the websites of 104 small marketing agencies (2 to 10 people, US and UK): 28% sold AI on their homepage, 6% said anywhere in writing how they use it, and 2% published an AI policy page. Five of the seven listed agency holding groups publish written AI commitments. The counts, the method and the policies worth copying are in [research/agency-ai-policy-audit-2026-10.md](research/agency-ai-policy-audit-2026-10.md) and the full write-up, [Agency AI policy examples](https://bigpipe.agency/blog/agency-ai-policy-examples?utm_source=github&utm_medium=repo&utm_campaign=ai-terms&utm_content=readme-audit).
+
 ## What the templates commit you to
 
 | Topic | Client statement | Contract addendum |
