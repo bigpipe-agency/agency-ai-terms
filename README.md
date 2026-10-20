@@ -7,6 +7,8 @@ Free templates for marketing, creative and digital agencies (and freelancers) wh
 
 Both files list every option. Delete what does not apply to you, or use the **[AI terms generator](https://bigpipe.agency/agency-ai-terms-generator?utm_source=github&utm_medium=repo&utm_campaign=ai-terms&utm_content=readme)** to tick where you actually use AI and get a version with only those parts (copy or download, free, no signup).
 
+Working in Notion? The same two documents, plus an AI tool register and a checklist before you publish, are a **[Notion template](https://cloud-agate-d83.notion.site/Agency-AI-Policy-and-Client-AI-Addendum-3ff8b422470080ed9976c7327319f93a)** you can duplicate into your workspace.
+
 ## Why send AI terms first
 
 In a World Federation of Advertisers survey of 48 of the world's biggest advertisers (September 2024), 80% had concerns about how their agencies use generative AI, and only 36% had introduced terms on how partners may use it on their behalf. An agency that arrives with a written standard answers the question before it becomes a negotiation, including a request for an [AI discount](https://bigpipe.agency/blog/clients-want-an-ai-discount-what-to-say?utm_source=github&utm_medium=repo&utm_campaign=ai-terms&utm_content=readme-discount).
