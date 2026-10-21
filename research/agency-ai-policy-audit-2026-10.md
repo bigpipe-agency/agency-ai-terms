@@ -10,6 +10,10 @@ How many small marketing agencies say in public how they use AI? We read the web
 | Publishes a dedicated AI policy page | 2 of 104 | 2% |
 | Sells AI and also says how it uses it | 4 of 29 | 14% |
 
+![Small agencies sell AI far more often than they explain it](agency-ai-policy-audit-2026-chart.png)
+
+The chart ([PNG, 2400 by 1350](agency-ai-policy-audit-2026-chart.png)) and the counts ([CSV](agency-ai-policy-audit-2026.csv)) are free to reuse under CC BY 4.0, with a credit to BigPipe and a link to the [full write-up](https://bigpipe.agency/blog/agency-ai-policy-examples?utm_source=github&utm_medium=repo&utm_campaign=ai-terms&utm_content=research-data).
+
 ## The statements we found
 
 Dedicated pages, both linked from the site footer:
