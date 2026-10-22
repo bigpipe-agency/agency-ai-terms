@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use the audit findings or these templates, please cite the report below."
+title: "Agency AI terms templates and the Agency AI Policy Audit 2026"
+type: dataset
+authors:
+  - name: "BigPipe"
+    website: "https://bigpipe.agency"
+license: CC-BY-4.0
+repository-code: "https://github.com/bigpipe-agency/agency-ai-terms"
+url: "https://bigpipe.agency/agency-ai-terms-generator"
+keywords:
+  - AI disclosure
+  - generative AI
+  - marketing agencies
+  - AI policy
+  - contract templates
+preferred-citation:
+  type: report
+  title: "Agency AI Policy Audit 2026: How 104 small marketing agencies and seven holding groups disclose their use of AI"
+  authors:
+    - name: "BigPipe"
+  year: 2026
+  month: 10
+  version: "1.0"
+  doi: "10.5281/zenodo.23570587"
+  url: "https://zenodo.org/records/23570587"
+  publisher:
+    name: "Zenodo"
+  license: CC-BY-4.0
