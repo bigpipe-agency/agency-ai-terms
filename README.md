@@ -15,7 +15,7 @@ In a World Federation of Advertisers survey of 48 of the world's biggest adverti
 
 ## How many agencies publish one?
 
-Very few. In October 2026 we read the websites of 104 small marketing agencies (2 to 10 people, US and UK): 28% sold AI on their homepage, 6% said anywhere in writing how they use it, and 2% published an AI policy page. Five of the seven listed agency holding groups publish written AI commitments. The counts, the method and the policies worth copying are in [research/agency-ai-policy-audit-2026-10.md](research/agency-ai-policy-audit-2026-10.md) and the full write-up, [Agency AI policy examples](https://bigpipe.agency/blog/agency-ai-policy-examples?utm_source=github&utm_medium=repo&utm_campaign=ai-terms&utm_content=readme-audit).
+Very few. In October 2026 we read the websites of 104 small marketing agencies (2 to 10 people, US and UK): 28% sold AI on their homepage, 6% said anywhere in writing how they use it, and 2% published an AI policy page. Five of the seven listed agency holding groups publish written AI commitments. The counts, the method and the policies worth copying are in [research/agency-ai-policy-audit-2026-10.md](research/agency-ai-policy-audit-2026-10.md) and the full write-up, [Agency AI policy examples](https://bigpipe.agency/blog/agency-ai-policy-examples?utm_source=github&utm_medium=repo&utm_campaign=ai-terms&utm_content=readme-audit). The full report is archived on Zenodo with a DOI: [10.5281/zenodo.23570587](https://doi.org/10.5281/zenodo.23570587) (PDF in [research/](research/agency-ai-policy-audit-2026-report.pdf)).
 
 ## What the templates commit you to
 
