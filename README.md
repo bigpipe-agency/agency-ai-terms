@@ -19,6 +19,8 @@ Very few. In October 2026 we read the websites of 104 small marketing agencies (
 
 To see what your own agency's website says today, run the free [AI disclosure checker](https://bigpipe.agency/agency-ai-disclosure-checker?utm_source=github&utm_medium=repo&utm_campaign=ai-terms&utm_content=readme-checker): it reads your homepage, legal pages and the usual policy addresses with the audit's definitions and quotes what it finds.
 
+To see how other agencies word theirs, the [agency AI policy library](https://bigpipe.agency/agency-ai-policies?utm_source=github&utm_medium=repo&utm_campaign=ai-terms&utm_content=readme-library) compares the AI policies that marketing, creative, PR and digital agencies publish, commitment by commitment, in each agency's own words.
+
 ## What the templates commit you to
 
 | Topic | Client statement | Contract addendum |
