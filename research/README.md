@@ -12,7 +12,7 @@ One row per AI policy that a marketing, PR, creative, web, SEO or social agency 
 | `website` | The agency's domain, without www |
 | `policy_url` | The page the policy was read on |
 | `agency_type` | `marketing`, `pr`, `creative`, `web-digital`, `seo-content`, `social` or `production` |
-| `country` | ISO country code of the agency's head office where the site states it, blank otherwise |
+| `country` | Where the agency is based when its site says so (`US`, `UK`, `AU`, `DE`, `NZ`), blank otherwise |
 | `format` | `policy page`, `blog post`, `PDF` or `section of a legal page` |
 | `policy_date` | The date the page states for the policy, blank if it states none |
 | `disclosure_timing` | When the agency tells clients about AI use: `proactive` (up front) or `on-request`, blank if the policy does not say |
