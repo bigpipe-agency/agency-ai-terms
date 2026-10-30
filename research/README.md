@@ -4,7 +4,7 @@ Two open data files about how marketing agencies say they use AI, collected and 
 
 ## agency-ai-policy-library-2026.csv
 
-One row per AI policy that a marketing, PR, creative, web, SEO or social agency publishes about its own work: 37 policies, each read in full between October 25 and 26, 2026. A commitment is marked only when the policy states it as the agency's own practice (advice to others, templates and values without a practice behind them are not counted). The agency's exact wording for every marked commitment, and a page per policy, are in the [agency AI policy library](https://bigpipe.agency/agency-ai-policies).
+One row per AI policy that a marketing, PR, creative, web, SEO or social agency publishes about its own work: 68 policies, each read in full between October 25 and 30, 2026. A commitment is marked only when the policy states it as the agency's own practice (advice to others, templates and values without a practice behind them are not counted). The agency's exact wording for every marked commitment, and a page per policy, are in the [agency AI policy library](https://bigpipe.agency/agency-ai-policies).
 
 | Column | Meaning |
 | --- | --- |
@@ -12,7 +12,7 @@ One row per AI policy that a marketing, PR, creative, web, SEO or social agency 
 | `website` | The agency's domain, without www |
 | `policy_url` | The page the policy was read on |
 | `agency_type` | `marketing`, `pr`, `creative`, `web-digital`, `seo-content`, `social` or `production` |
-| `country` | Where the agency is based when its site says so (`US`, `UK`, `AU`, `DE`, `NZ`), blank otherwise |
+| `country` | Where the agency is based when its site says so (`US`, `UK`, `AU`, `CA`, `NZ`, `DE`, `ZA`), blank otherwise |
 | `format` | `policy page`, `blog post`, `PDF` or `section of a legal page` |
 | `policy_date` | The date the page states for the policy, blank if it states none |
 | `disclosure_timing` | When the agency tells clients about AI use: `proactive` (up front) or `on-request`, blank if the policy does not say |
