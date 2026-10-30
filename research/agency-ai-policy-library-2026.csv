@@ -1,38 +1,69 @@
 agency,website,policy_url,agency_type,country,format,policy_date,disclosure_timing,humanReview,disclosure,clientData,limits,ipOriginality,owner,clientControl,namedTools,tools_named,read_on
+4Site,4sitestudios.com,https://www.4sitestudios.com/artificial-intelligence-use-policy/,web-digital,,policy page,2025-06-20,proactive,yes,yes,yes,yes,yes,yes,,yes,ChatGPT; Fathom,2026-10-30
+A Productions,aproductions.co.uk,https://aproductions.co.uk/ai-principles/,production,UK,policy page,,,yes,,,yes,yes,,,,,2026-10-30
+Aha Media Group,ahamediagroup.com,https://ahamediagroup.com/ai-policy/,seo-content,,policy page,2026-09,,yes,,yes,,yes,,,yes,ChatGPT,2026-10-30
 Arc Intermedia,arcintermedia.com,https://www.arcintermedia.com/company/ai-usage-policy/,marketing,US,policy page,,proactive,yes,yes,yes,yes,,,,yes,ChatGPT; Perplexity; Google Gemini; Claude; Microsoft Copilot; Cognizo; SEMrush; ClickUp; HubSpot,2026-10-25
+Axia Public Relations,axiapr.com,https://www.axiapr.com/blog/7-responsible-principles-to-guide-the-use-of-ai-in-public-relations,pr,US,blog post,2023-09-17,,,,yes,yes,,,yes,,,2026-10-30
+Banner Day,bannerday.co,https://bannerday.co/ai-policy,creative,US,policy page,2026-10,proactive,yes,yes,yes,yes,yes,yes,yes,,,2026-10-30
+BuiltByGo,builtbygo.com,https://builtbygo.com/ai-usage,web-digital,UK,policy page,2026-05-03,proactive,yes,yes,yes,yes,,,yes,yes,Claude; Claude Code; DeepSeek,2026-10-30
 Cause Fokus,causefokus.com,https://www.causefokus.com/ai-transparency-statement,social,,policy page,,,yes,,,,,,,,,2026-10-25
+Column Five,columnfivemedia.com,https://www.columnfivemedia.com/ai-code-of-ethics-for-content/,seo-content,US,blog post,,on-request,yes,yes,yes,,yes,,yes,,,2026-10-30
 Crafted,crafted.co.uk,https://www.crafted.co.uk/ai-guidelines,web-digital,UK,policy page,,on-request,,yes,,,,,,,,2026-10-25
+Design Powers,designpowers.com,https://designpowers.com/ai-policy,web-digital,,policy page,2026-03-26,,yes,,,yes,,,,yes,Claude; Gemini; Grammarly AI Writing Assistant; Ubersuggest; SEMrush; Adobe Firefly,2026-10-30
+DUO Marketing,duomarketing.co.za,https://www.duomarketing.co.za/ai-software-use-policy/,pr,ZA,policy page,,,yes,,yes,yes,yes,,,,,2026-10-30
+Elm Marketing,elmmarketing.co.nz,https://elmmarketing.co.nz/ai-policy/,marketing,NZ,policy page,,on-request,yes,yes,yes,,,,yes,,,2026-10-30
 Evenbound,evenbound.com,https://evenbound.com/ai-policy,marketing,,policy page,2024-11-21,proactive,yes,yes,yes,yes,,,yes,yes,Jasper AI; ChatGPT; Breeze (HubSpot); Canva; HeyGen; Riverside.FM,2026-10-25
+Evolving Media & Design,evolvingmedia.com,https://evolvingmedia.com/ai-policy/,creative,CA,policy page,2026-08-03,proactive,yes,yes,yes,yes,yes,,yes,,,2026-10-30
 Fink & Fuchs,finkfuchs.de,https://finkfuchs.de/media/ff_ai_policy_en.pdf,pr,DE,PDF,,proactive,yes,yes,yes,yes,yes,,,yes,Langdock,2026-10-25
 Firebrand,firebrand.marketing,https://www.firebrand.marketing/ai-policy/,marketing,US,policy page,,on-request,yes,yes,yes,yes,yes,yes,yes,yes,ChatGPT; Grammarly; Canva; Midjourney; Adobe Firefly; Fathom; Zoom; Otter.ai; HubSpot; Asana; Microsoft 365,2026-10-25
 Good2bSocial,good2bsocial.com,https://good2bsocial.com/ai-usage-policy/,marketing,US,policy page,,proactive,yes,yes,yes,yes,yes,,,yes,Jasper,2026-10-25
+Gravity Global,gravityglobal.com,https://www.gravityglobal.com/artificial-intelligence-addendum,marketing,,section of a legal page,,proactive,yes,yes,yes,,yes,,yes,,,2026-10-30
+Gregory,gregoryagency.com,https://gregoryagency.com/ai-policy/,pr,US,policy page,,,,,yes,yes,yes,,yes,yes,ChatGPT,2026-10-30
+HARP Marketing,harpmarketing.com.au,https://harpmarketing.com.au/legal/ai-policy/,marketing,AU,policy page,2026-03-05,proactive,yes,yes,,,,yes,,,,2026-10-30
+Heinz Marketing,heinzmarketing.com,https://www.heinzmarketing.com/ai-use-policy/,marketing,US,policy page,2024-09-13,proactive,yes,yes,yes,yes,yes,,,,,2026-10-30
 HMA Public Relations,hmapr.com,https://hmapr.com/we-did-something-uncomfortable-last-year-and-we-were-one-of-the-first-to-do-it/,pr,US,blog post,2025,proactive,yes,yes,yes,,,yes,,,,2026-10-25
+Hook Agency,hookagency.com,https://hookagency.com/ai-privacy-policy/,marketing,US,policy page,2025-06-16,on-request,yes,yes,yes,,,,,yes,ChatGPT; Fireflies.ai; Microsoft Copilot; Gemini; Jasper; Grammarly; Adobe Stock AI imagery,2026-10-30
 Ignite Social Media,ignitesocialmedia.com,https://www.ignitesocialmedia.com/social-media-marketing/artificial-intelligence/how-we-built-our-agency-ai-policy-and-what-we-learned/,social,US,blog post,,proactive,yes,yes,yes,,,,yes,,,2026-10-25
 Impulse Creative,impulsecreative.com,https://impulsecreative.com/company/legal/ai-policy,marketing,US,policy page,2026-08,proactive,yes,yes,yes,,,yes,,,,2026-10-25
 Inspire Digital,inspire.scot,https://www.inspire.scot/ai-policy,web-digital,UK,policy page,,on-request,yes,yes,yes,yes,,,yes,,,2026-10-26
 JBP Associates,jbp.co.uk,https://jbp.co.uk/ai-policy/,pr,UK,policy page,,proactive,yes,yes,yes,yes,,yes,yes,,,2026-10-26
 JPL,jpl.agency,https://jpl.agency/news/jpls-ai-point-of-view/,marketing,US,blog post,2026-04-24,proactive,yes,yes,yes,yes,yes,yes,yes,,,2026-10-26
 Keystone Click,keystoneclick.com,https://keystoneclick.com/ai-ethics-policy/,marketing,US,policy page,2023-08,proactive,yes,yes,yes,yes,,,,,,2026-10-25
+Knowmad,knowmad.com,https://www.knowmad.com/hubfs/Blog_Images/blog-files/Knowmad%20-%20Our%20Responsible%20AI%20Principles.pdf,marketing,US,PDF,2025-06-02,,yes,,,yes,,,,,,2026-10-30
+Koala Digital,koala-digital.com,https://koala-digital.com/ai-policy/,marketing,UK,policy page,,on-request,yes,yes,yes,yes,,,,,,2026-10-30
+Kuno Creative,kunocreative.com,https://www.kunocreative.com/ai-policy,marketing,,policy page,,,yes,,yes,yes,yes,,,,,2026-10-30
 L&S (Lawrence & Schiller),l-s.com,https://l-s.com/ai,marketing,US,policy page,,,yes,,yes,yes,yes,yes,,,,2026-10-26
 Mad Fish Digital,madfishdigital.com,https://www.madfishdigital.com/artificial-intelligence-policy/,marketing,US,policy page,,on-request,yes,yes,,,yes,yes,yes,,,2026-10-25
 Mahlab,mahlab.co,https://www.mahlab.co/ai-policy,seo-content,AU,policy page,2025-10-30,proactive,yes,yes,yes,yes,yes,yes,yes,,,2026-10-25
+Mangrove Web,mangrove-web.com,https://mangrove-web.com/ai-policy/,web-digital,CA,policy page,2026-01,proactive,yes,yes,yes,yes,yes,,,yes,ChatGPT,2026-10-30
+Marketing Partners,marketing-partners.com,https://www.marketing-partners.com/ai-commitment-statement,marketing,US,policy page,2026-08,proactive,yes,yes,yes,yes,yes,yes,yes,,,2026-10-30
 MiniMatters,minimatters.com,https://minimatters.com/ai-policy/,production,,policy page,2026-09-29,proactive,yes,yes,yes,yes,yes,,yes,,,2026-10-26
 Net Branding,netbranding.co.nz,https://netbranding.co.nz/ai-policy/,marketing,NZ,policy page,,on-request,yes,yes,yes,yes,yes,yes,yes,,,2026-10-25
 Netconcepts,netconcepts.com,https://www.marketingspeak.com/wp-content/uploads/2026/02/Netconcepts-Content-Team-Generative-AI-Use-Guidelines.pdf,seo-content,,PDF,,proactive,yes,yes,yes,yes,yes,,yes,yes,ChatGPT; Claude,2026-10-25
 New Perspective Marketing,npws.net,https://www.npws.net/responsible-ai,marketing,,policy page,,proactive,yes,yes,yes,yes,yes,,,,,2026-10-25
+NgageContent,ngagecontent.com,https://ngagecontent.com/ai-policy/,seo-content,US,policy page,,,yes,,,yes,,,,yes,ChatGPT; Claude; Perplexity; HubSpot Content Hub; HubSpot; Zoom; Rev; Moz; Grammarly,2026-10-30
+PAN Communications,pancommunications.com,https://www.pancommunications.com/about/people-culture/ai-governance-ethics/,pr,,policy page,,proactive,yes,yes,yes,,,,,yes,ChatGPT Enterprise; Wordtune; Figma AI; Adobe Firefly,2026-10-30
+Podymos,podymos.com,https://podymos.com/ai-policy,marketing,,policy page,2024-08,proactive,yes,yes,yes,,yes,,yes,,,2026-10-30
+Pronto Marketing,prontomarketing.com,https://www.prontomarketing.com/ai-policy/,web-digital,,policy page,,,yes,,,yes,,,,,,2026-10-30
 Recognition PR and Marketing,recognition.com.au,https://www.recognition.com.au/ai-policy/,pr,AU,policy page,,on-request,yes,yes,,,,,,,,2026-10-26
 rEvolution,revolutionworld.com,https://revolutionworld.com/ai-responsibility-statement/,marketing,,policy page,,on-request,yes,yes,yes,,yes,,yes,,,2026-10-25
 Rosica Communications,rosica.com,https://www.rosica.com/ai-tenets/,pr,,policy page,2025-11,proactive,yes,yes,yes,yes,yes,,,,,2026-10-25
 Rouge Media,rouge-media.com,https://www.rouge-media.com/ai-policy/,web-digital,UK,policy page,2026-03-11,proactive,yes,yes,yes,yes,yes,yes,yes,yes,Figma; Adobe Creative Cloud; Microsoft 365 Copilot; ChatGPT Pro,2026-10-25
 Salerno Design Studio,salernodesignstudio.com,https://salernodesignstudio.com/ai-disclaimer.html,creative,US,policy page,2025-01-01,on-request,yes,yes,yes,yes,,yes,,,,2026-10-25
 Signal,signalinc.com,https://signalinc.com/wp-content/uploads/2025/10/Signal_AI_Policy.pdf,marketing,,PDF,2025-01,,,,yes,yes,yes,,yes,,,2026-10-26
+Sookio,sookio.com,https://www.sookio.com/blog/marketing-agency-ai-policy,marketing,UK,blog post,,,,,yes,,,,,,,2026-10-30
 Stream Creative,streamcreative.com,https://www.streamcreative.com/ai-policy,marketing,US,policy page,2023-05-12,proactive,,yes,,,,,,,,2026-10-25
+Taskscape,taskscape.org.uk,https://www.taskscape.org.uk/our-position-on-ai/,pr,UK,policy page,2026-10,proactive,yes,yes,yes,yes,,,yes,,,2026-10-30
 ThinkProfits,thinkprofits.com,https://thinkprofits.com/ai-policy/,seo-content,,policy page,,,yes,,yes,yes,,,,,,2026-10-25
+Touchline,touchline.com,https://touchline.com/our-ai-policy,seo-content,,policy page,,proactive,yes,yes,yes,yes,,,,,,2026-10-30
 Trekk,trekk.com,https://trekk.com/insights/what-we-believe-about-generative-artificial-intelligence,marketing,US,blog post,2024-11-21,,,,yes,,yes,yes,,,,2026-10-25
 TREW Marketing,trewmarketing.com,https://www.trewmarketing.com/ai-policy,marketing,US,policy page,,proactive,yes,yes,,,,,,yes,Happy Scribe; ChatGPT; Writer; ChatPDF; Moz; Canva; Grammarly; HubSpot,2026-10-25
+TrueCMS,truecms.au,https://truecms.au/about/policies/ai-policy/,web-digital,AU,policy page,2026-04-28,proactive,yes,yes,yes,yes,yes,yes,,,,2026-10-30
+Visible Ads,visible-ads.com,https://visible-ads.com/ai-policy/,marketing,UK,policy page,2026-05,proactive,yes,yes,yes,yes,,,,yes,Google Smart Bidding; Microsoft auto-bidding,2026-10-30
 Vye,vye.agency,https://www.vye.agency/ai-usage-guidelines,marketing,US,policy page,,on-request,yes,yes,yes,,,,,,,2026-10-25
 Wallaroo Media,wallaroomedia.com,https://wallaroomedia.com/how-we-use-ai/,marketing,,blog post,,proactive,yes,yes,yes,yes,,,,yes,ChatGPT; Google Gemini; SEMRush AI; MidJourney; Sora; Creatify; ClickUp AI; Slack AI; Notion AI; Descript,2026-10-25
 WASH,wash.co.uk,https://wash.co.uk/ai-policy,production,UK,policy page,,proactive,yes,yes,yes,yes,yes,yes,yes,,,2026-10-25
 Weidert Group,weidert.com,https://www.weidert.com/ai-usage-policy,marketing,,policy page,2023-12-01,,yes,,,yes,,,,,,2026-10-25
 Whitehat,whitehat-seo.co.uk,https://whitehat-seo.co.uk/ai-usage-policy,seo-content,UK,policy page,2025-01,proactive,yes,yes,yes,yes,,,,yes,HubSpot,2026-10-25
 Whole Whale,wholewhale.com,https://wholewhale.com/who-we-are/ai-policy/,marketing,,policy page,2026,proactive,yes,yes,,,yes,,,,,2026-10-26
+Xponent21,xponent21.com,https://xponent21.com/ai-policy/,marketing,US,policy page,2026-07-20,on-request,yes,yes,yes,,,,,yes,CARL Intelligence; CARL AIO; CARL Writes; CARL Optimize; CARL CMS,2026-10-30
