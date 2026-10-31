@@ -16,6 +16,7 @@ One row per AI policy that a marketing, PR, creative, web, SEO or social agency 
 | `format` | `policy page`, `blog post`, `PDF` or `section of a legal page` |
 | `policy_date` | The date the page states for the policy, blank if it states none |
 | `disclosure_timing` | When the agency tells clients about AI use: `proactive` (up front) or `on-request`, blank if the policy does not say |
+| `disclosure_when` | When the disclosure applies, read from the agency's own words: `every` (whenever AI is used), `material` (when AI materially shapes a deliverable), `before` (raised with the client before AI is used), `standing` (one published statement of how AI runs through the work), `promise` (a general promise of openness naming no moment), `asked` (when the client asks); blank if the policy does not say it tells clients. Every statement, grouped this way: https://bigpipe.agency/ai-disclosure-statement-examples?utm_source=github&utm_medium=repo&utm_campaign=ai-terms&utm_content=research-readme |
 | `humanReview` | `yes` if a person reviews, edits or approves AI-assisted work before the client sees it or it goes live |
 | `disclosure` | `yes` if the agency tells clients how AI was used |
 | `clientData` | `yes` if it sets a concrete rule on what client confidential or personal information may go into an AI tool |
