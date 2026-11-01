@@ -1,6 +1,6 @@
 # Agency AI policy data
 
-Two open data files about how marketing agencies say they use AI, collected and coded by BigPipe in October 2026. The coding is free to reuse under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) with a credit to BigPipe; quoted words belong to each agency.
+Three open data files about how marketing agencies say they use AI, collected and coded by BigPipe in October and November 2026. The coding is free to reuse under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) with a credit to BigPipe; quoted words belong to each agency.
 
 ## agency-ai-policy-library-2026.csv
 
@@ -29,6 +29,25 @@ One row per AI policy that a marketing, PR, creative, web, SEO or social agency 
 | `read_on` | The date the policy was read (policies change; re-read the original before relying on one) |
 
 The live copy is at [bigpipe.agency/agency-ai-policies/library.csv](https://bigpipe.agency/agency-ai-policies/library.csv) and grows as policies are added.
+
+## agency-ai-contract-clauses-2026.csv
+
+One row per AI clause in an agency's own published client terms (terms of business, master services agreements, AI addenda): 99 clauses from 24 agencies in 10 countries, each document read in full on November 1, 2026. Only an agency's terms for its client work count (website terms of use, software terms and law-firm templates do not). Every clause, grouped by the question it settles, with each agency's document: https://bigpipe.agency/ai-contract-clauses?utm_source=github&utm_medium=repo&utm_campaign=ai-terms&utm_content=research-readme
+
+| Column | Meaning |
+| --- | --- |
+| `agency` | Agency name |
+| `document` | The document's own title |
+| `document_url` | Where the document was read |
+| `agency_type` | `marketing`, `creative`, `web-digital`, `seo-content` or `production` |
+| `country` | Where the document or its address makes it clear (`US`, `UK`, `NZ`, `AU`, `DE`, `AT`, `NL`, `CA`, `JP`, `ZA`), blank otherwise |
+| `document_date` | The date the document states for itself, blank if none |
+| `clause_kind` | The question the clause settles: `use` (the agency uses AI), `transparency` (which AI, and where), `consent` (the client opts in, opts out or sets limits), `review` (human review of AI output), `data` (client data in AI tools and training), `ownership` (ownership and copyright of AI-made work), `warranty` (what the agency promises, disclaims or indemnifies), `tools` (third-party AI providers), `labeling` (labeling AI content for the public), `clientUse` (the client's own AI use), `pricing` (AI and the fee) |
+| `clause_heading` | The clause number and heading as the document writes them |
+| `clause_text` | The agency's exact words (spacing and line breaks normalized) |
+| `read_on` | The date the document was read (contracts change; re-read the original before relying on one) |
+
+The live copy is at [bigpipe.agency/ai-contract-clauses/clauses.csv](https://bigpipe.agency/ai-contract-clauses/clauses.csv).
 
 ## agency-ai-policy-audit-2026.csv
 
