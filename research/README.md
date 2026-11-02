@@ -49,6 +49,29 @@ One row per AI clause in an agency's own published client terms (terms of busine
 
 The live copy is at [bigpipe.agency/ai-contract-clauses/clauses.csv](https://bigpipe.agency/ai-contract-clauses/clauses.csv).
 
+## ai-disclosure-requirements-2026.csv
+
+One row per rule on labeling or disclosing AI-made content that an agency publishing for clients meets: 36 platform rules, ad-platform rules and laws (Instagram, Facebook and Threads, TikTok, YouTube, LinkedIn, X, Pinterest, Snapchat; Google, Meta, TikTok, Microsoft, Snapchat and Pinterest ads; the FTC, New York, California, Utah, Maine, Colorado and state political-ad laws; the EU AI Act, the UK, China, South Korea and India), each read on the rule-maker's own pages and checked on November 2, 2026. The page quotes each rule in its own words: https://bigpipe.agency/ai-disclosure-requirements?utm_source=github&utm_medium=repo&utm_campaign=ai-terms&utm_content=research-readme
+
+| Column | Meaning |
+| --- | --- |
+| `rule` | The platform, ad platform or law |
+| `group` | `platform` (posting), `ads` or `law` |
+| `jurisdiction` | For laws: `US`, `US-NY`, `US-CA`, `US-UT`, `US-ME`, `US-CO`, `EU`, `UK`, `CN`, `KR`, `IN` |
+| `instrument` | The official name of the policy or law |
+| `status` | `in-force`, `upcoming`, `proposed` or `none` (no AI-specific law) |
+| `applies_since` | The date it applies or applied, blank when the source states none |
+| `answer` | Do you have to disclose, in one sentence |
+| `who` | Who has to disclose |
+| `what_triggers_it` | What content triggers the duty |
+| `how_to_disclose` | The setting, label or wording |
+| `not_required` | What the rule says needs no disclosure |
+| `consequence` | What happens without the disclosure |
+| `primary_source` | The rule-maker's own page |
+| `checked_on` | The date every rule was checked (platforms change their help pages without notice; re-check before relying on one) |
+
+The live copy is at [bigpipe.agency/ai-disclosure-requirements/rules.csv](https://bigpipe.agency/ai-disclosure-requirements/rules.csv).
+
 ## agency-ai-policy-audit-2026.csv
 
 The counts from the October 19, 2026 audit of 104 small (2 to 10 person) US and UK client-service marketing agencies and the seven listed agency holding groups: how many mention AI on the homepage, sell it, say in writing how they use it, and publish an AI policy page. Columns: `measure`, `agencies` (count), `sample` (denominator), `share_pct`, `note`. Method, limits and references are in the [report](agency-ai-policy-audit-2026-report.pdf) ([Zenodo, DOI 10.5281/zenodo.23570587](https://doi.org/10.5281/zenodo.23570587)) and the summary in [agency-ai-policy-audit-2026-10.md](agency-ai-policy-audit-2026-10.md).
