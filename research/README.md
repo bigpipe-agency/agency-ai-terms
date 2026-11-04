@@ -30,6 +30,16 @@ One row per AI policy that a marketing, PR, creative, web, SEO or social agency 
 
 The live copy is at [bigpipe.agency/agency-ai-policies/library.csv](https://bigpipe.agency/agency-ai-policies/library.csv) and grows as policies are added.
 
+### How the policies were found
+
+This is not a census or a random sample: it is every published policy found and verified, and published policies are rare.
+
+- **Search:** a few dozen web searches between October 25 and 30, 2026 for AI policies agencies publish about their own work ("agency AI policy", "our approach to AI", "responsible AI" with marketing, PR, creative, SEO and similar), plus the agency sites from the audit below. 114 candidate pages, each read in full.
+- **Kept:** an agency (marketing, PR, creative, web, SEO, social or production) stating on its own site how it uses AI on client work: 68.
+- **Left out:** website terms of use, templates and advice written for other agencies, values statements with no practice behind them, solo freelancers, and pages repeating a policy already counted.
+- **Why so few:** in the audit of 104 small US and UK agency websites (drawn from a people-search sample of 2 to 10 person agency founders, not chosen for mentioning AI), 2 had an AI policy page and 6 said anywhere in writing how they use AI.
+- **Limits:** only what English-language web search surfaces, so it leans toward agencies that want to be seen as careful with AI; internal-only policies are invisible to it. Agencies with a published policy that is missing can write to hello@bigpipe.agency or open an issue.
+
 ## agency-ai-contract-clauses-2026.csv
 
 One row per AI clause in an agency's own published client terms (terms of business, master services agreements, AI addenda): 99 clauses from 24 agencies in 10 countries, each document read in full on November 1, 2026. Only an agency's terms for its client work count (website terms of use, software terms and law-firm templates do not). Every clause, grouped by the question it settles, with each agency's document: https://bigpipe.agency/ai-contract-clauses?utm_source=github&utm_medium=repo&utm_campaign=ai-terms&utm_content=research-readme
