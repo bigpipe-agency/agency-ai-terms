@@ -4,7 +4,7 @@ Three open data files about how marketing agencies say they use AI, collected an
 
 ## agency-ai-policy-library-2026.csv
 
-One row per AI policy that a marketing, PR, creative, web, SEO or social agency publishes about its own work: 68 policies, each read in full between October 25 and 30, 2026. A commitment is marked only when the policy states it as the agency's own practice (advice to others, templates and values without a practice behind them are not counted). The agency's exact wording for every marked commitment, and a page per policy, are in the [agency AI policy library](https://bigpipe.agency/agency-ai-policies).
+One row per AI policy that a marketing, PR, creative, web, SEO or social agency publishes about its own work: 87 policies, each read in full between October 25 and November 8, 2026. A commitment is marked only when the policy states it as the agency's own practice (advice to others, templates and values without a practice behind them are not counted). The agency's exact wording for every marked commitment, and a page per policy, are in the [agency AI policy library](https://bigpipe.agency/agency-ai-policies).
 
 | Column | Meaning |
 | --- | --- |
@@ -34,9 +34,9 @@ The live copy is at [bigpipe.agency/agency-ai-policies/library.csv](https://bigp
 
 This is not a census or a random sample: it is every published policy found and verified, and published policies are rare.
 
-- **Search:** a few dozen web searches between October 25 and 30, 2026 for AI policies agencies publish about their own work ("agency AI policy", "our approach to AI", "responsible AI" with marketing, PR, creative, SEO and similar), plus the agency sites from the audit below. 114 candidate pages, each read in full.
-- **Kept:** an agency (marketing, PR, creative, web, SEO, social or production) stating on its own site how it uses AI on client work: 68.
-- **Left out:** website terms of use, templates and advice written for other agencies, values statements with no practice behind them, solo freelancers, and pages repeating a policy already counted.
+- **Search:** a few dozen web searches between October 25 and 30, 2026 for AI policies agencies publish about their own work ("agency AI policy", "our approach to AI", "responsible AI" with marketing, PR, creative, SEO and similar), plus the agency sites from the audit below: 114 candidate pages, each read in full. On November 8 a second round of varied searches found 26 more candidate pages, each read and screened by hand: 140 in all.
+- **Kept:** an agency (marketing, PR, creative, web, SEO, social or production) stating on its own site how it uses AI on client work: 87 (68 in October, 19 on November 8).
+- **Left out:** website terms of use, templates and advice written for other agencies, values statements with no practice behind them, sales pages for AI services, solo freelancers, talent agencies, studios making their own shows or products rather than serving clients, pages whose only live copy was a staging site, and pages repeating a policy already counted.
 - **Why so few:** in the audit of 104 small US and UK agency websites (drawn from a people-search sample of 2 to 10 person agency founders, not chosen for mentioning AI), 2 had an AI policy page and 6 said anywhere in writing how they use AI.
 - **Limits:** only what English-language web search surfaces, so it leans toward agencies that want to be seen as careful with AI; internal-only policies are invisible to it. Agencies with a published policy that is missing can write to hello@bigpipe.agency or open an issue.
 
