@@ -88,4 +88,9 @@ The counts from the October 19, 2026 audit of 104 small (2 to 10 person) US and 
 
 ## Cite
 
-BigPipe (2026). Agency AI Policy Audit 2026: How 104 small marketing agencies and seven holding groups disclose their use of AI. Zenodo. https://doi.org/10.5281/zenodo.23570587
+Each file has a permanent copy on Zenodo with a DOI that always resolves to the newest version:
+
+- BigPipe (2026). Agency AI Policies 2026: 87 published AI policies of marketing, PR and creative agencies, coded on 8 commitments (Version 2026.11). Zenodo. https://doi.org/10.5281/zenodo.24084715
+- BigPipe (2026). Agency AI Contract Clauses 2026: 99 AI clauses from marketing agencies' published client terms (Version 2026.11). Zenodo. https://doi.org/10.5281/zenodo.24084717
+- BigPipe (2026). AI Disclosure Requirements by Platform and Law 2026: 36 rules on labeling AI-generated content (Version 2026.11). Zenodo. https://doi.org/10.5281/zenodo.24084719
+- BigPipe (2026). Agency AI Policy Audit 2026: How 104 small marketing agencies and seven holding groups disclose their use of AI. Zenodo. https://doi.org/10.5281/zenodo.23570587
