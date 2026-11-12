@@ -61,7 +61,7 @@ The live copy is at [bigpipe.agency/ai-contract-clauses/clauses.csv](https://big
 
 ## ai-disclosure-requirements-2026.csv
 
-One row per rule on labeling or disclosing AI-made content that an agency publishing for clients meets: 36 platform rules, ad-platform rules and laws (Instagram, Facebook and Threads, TikTok, YouTube, LinkedIn, X, Pinterest, Snapchat; Google, Meta, TikTok, Microsoft, Snapchat and Pinterest ads; the FTC, New York, California, Utah, Maine, Colorado and state political-ad laws; the EU AI Act, the UK, China, South Korea and India), each read on the rule-maker's own pages and checked on November 2, 2026. The page quotes each rule in its own words: https://bigpipe.agency/ai-disclosure-requirements?utm_source=github&utm_medium=repo&utm_campaign=ai-terms&utm_content=research-readme
+One row per rule on labeling or disclosing AI-made content that an agency publishing for clients meets: 36 platform rules, ad-platform rules and laws (Instagram, Facebook and Threads, TikTok, YouTube, LinkedIn, X, Pinterest, Snapchat; Google, Meta, TikTok, Microsoft, Snapchat and Pinterest ads; the FTC, New York, California, Utah, Maine, Colorado and state political-ad laws; the EU AI Act, the UK, China, South Korea and India), each read on the rule-maker's own pages and re-checked on November 12, 2026 (every quote re-fetched; Pinterest's rule against AI media that misrepresents a product took effect that day). What changed is listed at the foot of the page. The page quotes each rule in its own words: https://bigpipe.agency/ai-disclosure-requirements?utm_source=github&utm_medium=repo&utm_campaign=ai-terms&utm_content=research-readme
 
 | Column | Meaning |
 | --- | --- |
