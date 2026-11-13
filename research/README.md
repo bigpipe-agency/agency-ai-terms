@@ -86,6 +86,15 @@ The live copy is at [bigpipe.agency/ai-disclosure-requirements/rules.csv](https:
 
 The counts from the October 19, 2026 audit of 104 small (2 to 10 person) US and UK client-service marketing agencies and the seven listed agency holding groups: how many mention AI on the homepage, sell it, say in writing how they use it, and publish an AI policy page. Columns: `measure`, `agencies` (count), `sample` (denominator), `share_pct`, `note`. Method, limits and references are in the [report](agency-ai-policy-audit-2026-report.pdf) ([Zenodo, DOI 10.5281/zenodo.23570587](https://doi.org/10.5281/zenodo.23570587)) and the summary in [agency-ai-policy-audit-2026-10.md](agency-ai-policy-audit-2026-10.md).
 
+## Load it in code
+
+The three research files are also Hugging Face datasets, with a browsable preview and the same columns: [agency-ai-policies](https://huggingface.co/datasets/bigpipe-agency/agency-ai-policies), [agency-ai-contract-clauses](https://huggingface.co/datasets/bigpipe-agency/agency-ai-contract-clauses) and [ai-disclosure-requirements](https://huggingface.co/datasets/bigpipe-agency/ai-disclosure-requirements).
+
+```python
+from datasets import load_dataset
+rules = load_dataset("bigpipe-agency/ai-disclosure-requirements", split="train")
+```
+
 ## Cite
 
 Each file has a permanent copy on Zenodo with a DOI that always resolves to the newest version:
